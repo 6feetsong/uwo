@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
+import TradePointRoot from './trade-point/trade-point-root';
+
 const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 function App() {
-  return <h1>Hi there!</h1>;
+  return <TradePointRoot />;
 }
 
 root.render(<App />);
