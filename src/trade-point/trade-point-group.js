@@ -2,10 +2,9 @@ import React from 'react';
 import TradePointItem from './trade-point-item';
 
 
-export default function TradePointGroup({ filteredTradePoints, title }) {
+export default function TradePointGroup({ filteredTradePoints }) {
   return (
     <div>
-      <h4>{title}</h4>
       <ul>
         {filteredTradePoints.map((d) => (
           <li key={d.label}>
