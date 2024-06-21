@@ -39,10 +39,10 @@ export default function TradePointRoot() {
   return (
     <div>
       <h2>거래점수</h2>
+      <p>last updated: 2024-06-21 09:38:53</p>
       {groupNames.map((name, i) => (
         <div key={i}>
-          
-          <Button onClick={() => handleClick(i)}>{name}</Button>
+          <Button style={{marginTop:'12px'}} large={true} rightIcon={openStates[i] ? 'small-minus' : 'small-plus'} onClick={() => handleClick(i)}>{name}</Button>
           <Collapse isOpen={openStates[i]}>
             <TradePointGroup
               title={name}
