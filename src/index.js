@@ -6,6 +6,7 @@ import "normalize.css";
 import "@blueprintjs/core/lib/css/blueprint.css";
 // include blueprint-icons.css for icon font support
 import "@blueprintjs/icons/lib/css/blueprint-icons.css";
+import "./css/styles.css";
 
 import TradePointRoot from './trade-point/trade-point-root';
 
