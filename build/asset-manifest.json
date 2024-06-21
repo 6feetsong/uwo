@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/uwo/build/static/css/main.1e82b704.css",
-    "main.js": "/uwo/build/static/js/main.7f28a2d8.js",
+    "main.js": "/uwo/build/static/js/main.7b74af3e.js",
     "blueprint-icons-all-paths-loader.js": "/uwo/build/static/js/blueprint-icons-all-paths-loader.8de5a141.chunk.js",
     "blueprint-icons-split-paths-by-size-loader.js": "/uwo/build/static/js/blueprint-icons-split-paths-by-size-loader.dfcbd25a.chunk.js",
     "static/js/453.5cd6496d.chunk.js": "/uwo/build/static/js/453.5cd6496d.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/blueprint-icons-16.woff2?": "/uwo/build/static/media/blueprint-icons-16.a1087e40c4c7e44ba080.woff2",
     "index.html": "/uwo/build/index.html",
     "main.1e82b704.css.map": "/uwo/build/static/css/main.1e82b704.css.map",
-    "main.7f28a2d8.js.map": "/uwo/build/static/js/main.7f28a2d8.js.map",
+    "main.7b74af3e.js.map": "/uwo/build/static/js/main.7b74af3e.js.map",
     "blueprint-icons-all-paths-loader.8de5a141.chunk.js.map": "/uwo/build/static/js/blueprint-icons-all-paths-loader.8de5a141.chunk.js.map",
     "blueprint-icons-split-paths-by-size-loader.dfcbd25a.chunk.js.map": "/uwo/build/static/js/blueprint-icons-split-paths-by-size-loader.dfcbd25a.chunk.js.map",
     "453.5cd6496d.chunk.js.map": "/uwo/build/static/js/453.5cd6496d.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.1e82b704.css",
-    "static/js/main.7f28a2d8.js"
+    "static/js/main.7b74af3e.js"
   ]
 }

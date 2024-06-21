@@ -6,10 +6,11 @@ import "@blueprintjs/icons/lib/css/blueprint-icons.css";
 import "./css/styles.css";
 
 import LayoutRoot from './layout-root/layout-root';
+import TradePointRoot from "./trade-point/trade-point-root";
 
 function App() {
   return (
-    <LayoutRoot />
+    <TradePointRoot />
   );
 }
 
