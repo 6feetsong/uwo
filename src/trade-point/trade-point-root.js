@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import tradePoints from '../resource/data.json';
 import groupSet from '../resource/group.json';
 import TradePointGroup from './trade-point-group';
-import { Collapse, Button } from '@blueprintjs/core';
+import { Collapse, Button, H4 } from '@blueprintjs/core';
 
 export default function TradePointRoot() {
   const [dataset, setData] = useState([]);
@@ -37,9 +37,9 @@ export default function TradePointRoot() {
   }
 
   return (
-    <div>
-      <h2>거래점수</h2>
-      <p>last updated: 2024-06-21 09:38:53</p>
+    <div style={{padding: '12px'}}>
+      <H4>거래점수</H4>
+      <p>last updated: 2024-06-21 10:05</p>
       {groupNames.map((name, i) => (
         <div key={i}>
           <Button style={{marginTop:'12px'}} large={true} rightIcon={openStates[i] ? 'small-minus' : 'small-plus'} onClick={() => handleClick(i)}>{name}</Button>

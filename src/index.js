@@ -8,13 +8,13 @@ import "@blueprintjs/core/lib/css/blueprint.css";
 import "@blueprintjs/icons/lib/css/blueprint-icons.css";
 import "./css/styles.css";
 
-import TradePointRoot from './trade-point/trade-point-root';
+import LayoutRoot from './layout-root/layout-root';
 
 const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 function App() {
-  return <TradePointRoot />;
+  return (<LayoutRoot />)
 }
 
 root.render(<App />);
