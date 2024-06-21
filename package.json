@@ -1,6 +1,7 @@
 {
   "name": "jsx",
   "version": "0.1.0",
+  "homepage": "./", 
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "^5.10.3",
