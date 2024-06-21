@@ -1,6 +1,3 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-
 // or using a ESM bundler which resolves CSS files as modules:
 import "normalize.css";
 import "@blueprintjs/core/lib/css/blueprint.css";
@@ -9,13 +6,11 @@ import "@blueprintjs/icons/lib/css/blueprint-icons.css";
 import "./css/styles.css";
 
 import LayoutRoot from './layout-root/layout-root';
-import TradePointRoot from './trade-point/trade-point-root';
-
-const el = document.getElementById('root');
-const root = ReactDOM.createRoot(el);
 
 function App() {
-  return (<TradePointRoot />)
+  return (
+    <LayoutRoot />
+  );
 }
 
-root.render(<App />);
+export default App;

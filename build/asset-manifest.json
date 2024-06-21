@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/uwo/build/static/css/main.29944014.css",
-    "main.js": "/uwo/build/static/js/main.0ae86a62.js",
-    "blueprint-icons-all-paths-loader.js": "/uwo/build/static/js/blueprint-icons-all-paths-loader.4610d1fd.chunk.js",
-    "blueprint-icons-split-paths-by-size-loader.js": "/uwo/build/static/js/blueprint-icons-split-paths-by-size-loader.9143b071.chunk.js",
-    "blueprint-icons-all-paths.js": "/uwo/build/static/js/blueprint-icons-all-paths.50d110dd.chunk.js",
-    "blueprint-icons-16px-paths.js": "/uwo/build/static/js/blueprint-icons-16px-paths.6ac2bcec.chunk.js",
-    "blueprint-icons-20px-paths.js": "/uwo/build/static/js/blueprint-icons-20px-paths.b2430fcf.chunk.js",
+    "main.css": "/uwo/build/static/css/main.1e82b704.css",
+    "main.js": "/uwo/build/static/js/main.7f28a2d8.js",
+    "blueprint-icons-all-paths-loader.js": "/uwo/build/static/js/blueprint-icons-all-paths-loader.8de5a141.chunk.js",
+    "blueprint-icons-split-paths-by-size-loader.js": "/uwo/build/static/js/blueprint-icons-split-paths-by-size-loader.dfcbd25a.chunk.js",
+    "static/js/453.5cd6496d.chunk.js": "/uwo/build/static/js/453.5cd6496d.chunk.js",
+    "blueprint-icons-all-paths.js": "/uwo/build/static/js/blueprint-icons-all-paths.6540b00e.chunk.js",
+    "blueprint-icons-16px-paths.js": "/uwo/build/static/js/blueprint-icons-16px-paths.af6f4c17.chunk.js",
+    "blueprint-icons-20px-paths.js": "/uwo/build/static/js/blueprint-icons-20px-paths.02e40e81.chunk.js",
     "static/media/blueprint-icons-20.svg?": "/uwo/build/static/media/blueprint-icons-20.68522122b50378eae8bc.svg",
     "static/media/blueprint-icons-16.svg?": "/uwo/build/static/media/blueprint-icons-16.e246fc36b54c054bcb37.svg",
     "static/media/blueprint-icons-20.eot?": "/uwo/build/static/media/blueprint-icons-20.57092e8a0a4c583f3c6b.eot",
@@ -18,16 +19,17 @@
     "static/media/blueprint-icons-20.woff2?": "/uwo/build/static/media/blueprint-icons-20.b3aa4d6bc516c8bce820.woff2",
     "static/media/blueprint-icons-16.woff2?": "/uwo/build/static/media/blueprint-icons-16.a1087e40c4c7e44ba080.woff2",
     "index.html": "/uwo/build/index.html",
-    "main.29944014.css.map": "/uwo/build/static/css/main.29944014.css.map",
-    "main.0ae86a62.js.map": "/uwo/build/static/js/main.0ae86a62.js.map",
-    "blueprint-icons-all-paths-loader.4610d1fd.chunk.js.map": "/uwo/build/static/js/blueprint-icons-all-paths-loader.4610d1fd.chunk.js.map",
-    "blueprint-icons-split-paths-by-size-loader.9143b071.chunk.js.map": "/uwo/build/static/js/blueprint-icons-split-paths-by-size-loader.9143b071.chunk.js.map",
-    "blueprint-icons-all-paths.50d110dd.chunk.js.map": "/uwo/build/static/js/blueprint-icons-all-paths.50d110dd.chunk.js.map",
-    "blueprint-icons-16px-paths.6ac2bcec.chunk.js.map": "/uwo/build/static/js/blueprint-icons-16px-paths.6ac2bcec.chunk.js.map",
-    "blueprint-icons-20px-paths.b2430fcf.chunk.js.map": "/uwo/build/static/js/blueprint-icons-20px-paths.b2430fcf.chunk.js.map"
+    "main.1e82b704.css.map": "/uwo/build/static/css/main.1e82b704.css.map",
+    "main.7f28a2d8.js.map": "/uwo/build/static/js/main.7f28a2d8.js.map",
+    "blueprint-icons-all-paths-loader.8de5a141.chunk.js.map": "/uwo/build/static/js/blueprint-icons-all-paths-loader.8de5a141.chunk.js.map",
+    "blueprint-icons-split-paths-by-size-loader.dfcbd25a.chunk.js.map": "/uwo/build/static/js/blueprint-icons-split-paths-by-size-loader.dfcbd25a.chunk.js.map",
+    "453.5cd6496d.chunk.js.map": "/uwo/build/static/js/453.5cd6496d.chunk.js.map",
+    "blueprint-icons-all-paths.6540b00e.chunk.js.map": "/uwo/build/static/js/blueprint-icons-all-paths.6540b00e.chunk.js.map",
+    "blueprint-icons-16px-paths.af6f4c17.chunk.js.map": "/uwo/build/static/js/blueprint-icons-16px-paths.af6f4c17.chunk.js.map",
+    "blueprint-icons-20px-paths.02e40e81.chunk.js.map": "/uwo/build/static/js/blueprint-icons-20px-paths.02e40e81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29944014.css",
-    "static/js/main.0ae86a62.js"
+    "static/css/main.1e82b704.css",
+    "static/js/main.7f28a2d8.js"
   ]
 }
